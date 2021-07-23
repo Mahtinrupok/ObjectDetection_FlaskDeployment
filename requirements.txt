@@ -1,0 +1,6 @@
+flask
+PIL 
+os
+sys
+cv2
+django-app-helper==3.0.1
